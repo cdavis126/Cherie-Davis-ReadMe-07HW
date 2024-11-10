@@ -1,15 +1,16 @@
 {
-  "name": "static-site",
+  "name": "cherie-davis-readme-07hw",
   "version": "1.0.0",
-  "description": "",
+  "description": "Cherie Davis ReadMe File Homework",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cherie Davis",
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
   }
 }
+

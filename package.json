@@ -1,0 +1,22 @@
+{
+  "name": "cherie-davis-readme-07hw",
+  "version": "1.0.0",
+  "description": "Cherie Davis ReadMe File Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdavis126/Cherie-Davis-ReadMe-07HW.git"
+  },
+  "author": "Cherie Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdavis126/Cherie-Davis-ReadMe-07HW/issues"
+  },
+  "homepage": "https://github.com/cdavis126/Cherie-Davis-ReadMe-07HW#readme",
+  "dependencies": {
+    "inquirer": "^12.0.1"
+  }
+}
